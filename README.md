@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<hr>
 <div align='center'>
     <img src='#'></img>
 </div>
@@ -30,17 +32,13 @@ Here are some ideas to get you started:
 ## Full Stack Developer / AI Engineer 
 
 - 🔭 I’m currently working on full-stack AI projects @ [FarmERP](https://www.farmerp.com/)
+- Special interests in NLP and Knowledge Graphs. 
+- I've keen interest in designing UIs. 
+- I'm an avid reader, I write blogs and I'm fond of origami.
 
 <br>
 
 <hr>
-
-
-
-
-
-
-<br>
 
 ## Languages and Tools:
 
