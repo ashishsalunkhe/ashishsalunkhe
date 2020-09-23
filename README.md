@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <div align='center'>
-    <img src='#'></img>
+    <img src='portfoliovid-2020-09-23_15.25.gif'></img>
 </div>
 
 <br>
