@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'>
-    <img src='https://i.imgur.com/u1lKwy0.png'></img>
+    <img src='#'></img>
 </div>
 
 <br>
