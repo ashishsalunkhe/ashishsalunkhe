@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## My Github Statistics 
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=pilakavil&theme=synthwave&show_icons=true)
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&theme=synthwave&show_icons=true)
 
 <br>
 <hr>
