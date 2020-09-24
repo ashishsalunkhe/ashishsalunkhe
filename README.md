@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Full Stack Developer / AI Engineer 
 
-- 🔭 I’m currently working on full-stack AI projects @ [FarmERP](https://www.farmerp.com/)
+- 🔭 I’m currently working on full-stack AI projects. 
 - Special interests in NLP and Knowledge Graphs. 
 - I've keen interest in designing UIs. 
 - I'm an avid reader, I write blogs and I'm fond of origami.
