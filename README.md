@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <div align='center'>
-    <img src='portfoliovid-2020-09-23_15.25.gif'></img>
+    <img src='Screenshot_2020-10-04 Ashish Salunkhe(1).png'></img>
 <!--      <iframe src="https://ashishsalunkhe.github.io" height="200" width="300" title="Iframe Example"></iframe>  -->
 </div>
 
