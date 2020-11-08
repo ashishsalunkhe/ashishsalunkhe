@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 
 <br>
-<div align='center'>
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashishsalunkhe.github.io)
-
-</div>
 <hr>
 <br>
 
@@ -64,10 +60,6 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<div align='center'>
-    <a target="_blank" href="https://ashishsalunkhe.github.io" ><img src='Screenshot_2020-10-04 Ashish Salunkhe(1).png'></img></a>
-<!--      <iframe src="https://ashishsalunkhe.github.io" height="200" width="300" title="Iframe Example"></iframe>  -->
-</div>
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -80,3 +72,15 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/avsalunkhe98
 [instagram]: https://instagram.com/_ashish.salunkhe_
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
+
+<br>
+<hr>
+<div align='center'>
+
+[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashishsalunkhe.github.io)
+
+</div>
+<div align='center'>
+    <a target="_blank" href="https://ashishsalunkhe.github.io" ><img src='Screenshot_2020-10-04 Ashish Salunkhe(1).png'></img></a>
+<!--      <iframe src="https://ashishsalunkhe.github.io" height="200" width="300" title="Iframe Example"></iframe>  -->
+</div>
