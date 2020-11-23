@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ## My Github Statistics 
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&theme=synthwave&show_icons=true)
+<img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true" />
 
 <br>
 <hr>
