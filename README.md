@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-## Full Stack Developer / AI Engineer 
+## Full Stack Developer / AI Engineer
 
-- 🔭 I’m currently working on full-stack AI projects. 
-- Special interests in NLP and Knowledge Graphs. 
-- I've keen interest in designing UIs. 
-- I'm an avid reader, I write blogs and I'm fond of origami.
+- 🔭 I’m currently working on full-stack AI projects.
+- 🌱 I’m currently exploring [Explainable AI for Time Series](https://www.ijcai.org/Proceedings/2019/932)
+- 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: A $1 bill costs 5 cents to make.
+- 💬 Ask me about: F1, Games, Music and Tech 
+- ✨ Special interests in NLP and Knowledge Graphs and a keen interest in designing UIs
+- 📚 I'm an avid reader, I write blogs and I'm fond of origami.
 
 <br>
 
@@ -39,13 +43,11 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/_ashish.salunkhe_
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
 
-<br>
 <div align='center'>
 
 [![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashishsalunkhe.github.io)
 
 </div>
-<hr>
 
 ## Languages and Tools:
 
