@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  I'm [Ashish](https://scholar.google.com/citations?user=n0PWgvUAAAAJ&hl=en)! 👋
 
 <!--
 **ashishsalunkhe/ashishsalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## My Github Statistics 
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&theme=synthwave&show_icons=true)
+![Ashish's github stats]
 <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true" />
 
 <br>
