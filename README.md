@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 <hr>
 
 ## My Github Statistics 
-![Ashish's github stats]
 <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true" />
 
 <br>
