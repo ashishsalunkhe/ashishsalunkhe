@@ -26,6 +26,25 @@ Here are some ideas to get you started:
 
 <br>
 
+## Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://ashishsalunkhe.github.io/
+[twitter]: https://twitter.com/avsalunkhe98
+[instagram]: https://instagram.com/_ashish.salunkhe_
+[linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
+
+<br>
+<div align='center'>
+
+[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashishsalunkhe.github.io)
+
+</div>
 <hr>
 
 ## Languages and Tools:
@@ -57,27 +76,4 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[website]: https://ashishsalunkhe.github.io/
-[twitter]: https://twitter.com/avsalunkhe98
-[instagram]: https://instagram.com/_ashish.salunkhe_
-[linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
-
-<br>
-<hr>
-<div align='center'>
-
-[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashishsalunkhe.github.io)
-
-</div>
-<div align='center'>
-    <a target="_blank" href="https://ashishsalunkhe.github.io" ><img src='Screenshot_2020-10-04 Ashish Salunkhe(1).png'></img></a>
-<!--      <iframe src="https://ashishsalunkhe.github.io" height="200" width="300" title="Iframe Example"></iframe>  -->
-</div>
