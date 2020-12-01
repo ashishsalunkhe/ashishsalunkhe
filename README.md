@@ -42,12 +42,9 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/avsalunkhe98
 [instagram]: https://instagram.com/_ashish.salunkhe_
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
+[website]: https://scholar.google.com/citations?hl=en&user=n0PWgvUAAAAJ
 
-<div align='center'>
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashishsalunkhe.github.io)
-
-</div>
 
 ## Languages and Tools:
 
