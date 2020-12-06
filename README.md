@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [website]: https://ashishsalunkhe.github.io/
 [twitter]: https://twitter.com/avsalunkhe98
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
-
+<br>
 
 ## Languages and Tools:
 
