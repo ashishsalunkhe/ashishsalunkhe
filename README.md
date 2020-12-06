@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 
 [website]: https://ashishsalunkhe.github.io/
 [twitter]: https://twitter.com/avsalunkhe98
-[instagram]: https://instagram.com/_ashish.salunkhe_
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
-[facebook]: 
 
 
 
