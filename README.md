@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-<br>
 
 ## Full Stack Developer / AI Engineer
 
