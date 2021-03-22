@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 </br>
 
-![Profile views](https://gpvc.arturio.dev/sushilburagute)  <img src="https://img.shields.io/github/followers/sushilburagute?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 ## Connect with me:
