@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 - ✨ Special interests in NLP and Knowledge Graphs and a keen interest in designing UIs
 - 📚 I'm an avid reader, I write blogs and I'm fond of origami.
 
-<br>
-https://camo.githubusercontent.com/c91a8a9c04c08f59ca4b9276f55185278c45e46e78002cbd93df39632656c68a/68747470733a2f2f677076632e6172747572696f2e6465762f73757368696c6275726167757465
-<br>
+</br>
+
+![Profile views](https://gpvc.arturio.dev/sushilburagute)  <img src="https://img.shields.io/github/followers/sushilburagute?label=Follow" style=" float:left, margin-right:10px" />
+
+---
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,10 +42,9 @@ https://camo.githubusercontent.com/c91a8a9c04c08f59ca4b9276f55185278c45e46e78002
 [website]: https://ashishsalunkhe.github.io/
 [twitter]: https://twitter.com/avsalunkhe98
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
-<br>
+</br>
 
 ## Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
