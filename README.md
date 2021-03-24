@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-## Full Stack Developer / AI Engineer
+## Full Stack Developer 
 
 - 🔭 I’m currently working on full-stack AI projects.
 - 🌱 I’m currently exploring [Explainable AI for Time Series](https://www.ijcai.org/Proceedings/2019/932)
