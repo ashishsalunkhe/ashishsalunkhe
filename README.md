@@ -27,20 +27,6 @@ Here are some ideas to get you started:
 - 📚 I'm an avid reader, I write blogs and I'm fond of origami.
 
 
-![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
-
----
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[website]: https://ashishsalunkhe.github.io/
-[twitter]: https://twitter.com/avsalunkhe98
-[linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
-<br/>
 ---
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -65,4 +51,19 @@ Here are some ideas to get you started:
 
 ## My Github Statistics 
 <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true" />
+
+![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
+
+---
+## Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[website]: https://ashishsalunkhe.github.io/
+[twitter]: https://twitter.com/avsalunkhe98
+[linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
+<br/>
 
