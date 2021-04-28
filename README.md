@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about: F1, Games, Music and Tech - Javascript/Python or React/Django
 - ✨ Special interests in NLP and Knowledge Graphs and a keen interest in designing UIs
 - 📚 I'm an avid reader, I write blogs and I'm fond of origami.
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/avsalunkhe98)
+- 📫 How to reach me: [@avsalunkhe98](https://twitter.com/avsalunkhe98)
 
 📊 **My Github Statistics**
 
