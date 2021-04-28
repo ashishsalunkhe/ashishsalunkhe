@@ -24,4 +24,3 @@ This is the place where I opensource stuff and break things :rofl:
 ![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
 
 
-<img src='https://profile-counter.glitch.me/ashishsalunkhe/count.svg' width='0px'>
