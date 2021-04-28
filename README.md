@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
 
 ## Full Stack Developer 
 
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 - ✨ Special interests in NLP and Knowledge Graphs and a keen interest in designing UIs
 - 📚 I'm an avid reader, I write blogs and I'm fond of origami.
 
-</br>
 
 ![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
 
