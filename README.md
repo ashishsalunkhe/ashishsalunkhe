@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <br/>
 <hr>
-
-## My Github Statistics 
-<img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true"/>
-<br/>
-<hr>
-
 ## Connect with me:
 
 [<img style="color: blue" align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -65,6 +59,14 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/avsalunkhe98
 [linkedin]: https://www.linkedin.com/in/ashishsalunkhe/
 <br/>
+
+---
+## My Github Statistics 
+<img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true"/>
+<br/>
+<hr>
+
+
 
 
 ![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
