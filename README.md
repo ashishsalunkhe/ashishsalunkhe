@@ -15,10 +15,7 @@
 ## My Github Statistics 📊
 
 <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true"/>
-<hr>
 
-
-**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ashishsalunkhe&hide_title=true&hide_border=true&langs_count=5)
 
