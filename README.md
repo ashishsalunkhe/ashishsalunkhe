@@ -6,7 +6,6 @@
 - 🌱 I’m currently exploring [Explainable AI for Time Series](https://www.ijcai.org/Proceedings/2019/932)
 - 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: A $1 bill costs 5 cents to make.
 - 💬 Ask me about: F1, Games, Music and Tech - Javascript/Python or React/Django
 - ✨ Special interests in NLP and Knowledge Graphs and a keen interest in designing UIs
 - 📚 I'm an avid reader, I write blogs and I'm fond of origami.
