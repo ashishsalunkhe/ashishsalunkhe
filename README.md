@@ -2,8 +2,7 @@
 
 ## Full Stack Developer 
 
-- 🔭 I’m currently working on full-stack projects.
-- 🌱 I’m currently exploring [Explainable AI for Time Series](https://www.ijcai.org/Proceedings/2019/932)
+- 🔭 I’m currently working on full-stack ML projects exploring [Explainable AI for Time Series](https://www.ijcai.org/Proceedings/2019/932)
 - 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: F1, Games, Music and Tech - Javascript/Python or React/Django
