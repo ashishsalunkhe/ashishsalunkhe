@@ -2,8 +2,8 @@
 
 ## Full Stack Developer 
 
-- 🔭 I’m currently working on full-stack ML projects exploring [Explainable AI for Time Series](https://www.ijcai.org/Proceedings/2019/932)
-- 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets
+- 🔭 I’m currently working on Salesforce Platform Development Solutions for Banking and Financial Services
+<!-- - 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets -->
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: F1, Games, Music and Tech - Javascript/Python or React/Django
 - ✨ Special interests in NLP and a keen interest in designing UIs
