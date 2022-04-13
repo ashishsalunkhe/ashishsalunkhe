@@ -2,14 +2,14 @@
 
 ## Full Stack Developer 
 
-- 🔭 I’m currently working on Salesforce Platform Development Solutions for Banking and Financial Services
-<!-- - 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets -->
+- 🔭 I’m currently working on Salesforce Platform Development Solutions for Banking and Financial Services in my day job and exploring X-AI and Differential Privacy.
+- 👯 I’m looking to collaborate with folks in the field of Explainable AI and Applied AI in Financial Markets
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: F1, Games, Music and Tech - Javascript/Python or React/Django
 - ✨ Special interests in NLP and a keen interest in designing UIs
 - 📚 I'm an avid reader, I write blogs and I'm fond of origami.
 - 📫 How to reach me: [@avsalunkhe98](https://twitter.com/avsalunkhe98)
-
+<!-- - 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets -->
 
 **Languages and Tools:**  
 
