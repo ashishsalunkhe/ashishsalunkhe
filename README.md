@@ -1,31 +1,44 @@
-### Hi there <a href="ashishsalunkhe.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi, I'm Ashish! 👋
 
-## Full Stack Developer 
+## 🔗 Links
 
-- 🔭 I’m currently working on Salesforce Platform Development Solutions for Banking and Financial Services in my day job and exploring X-AI and Differential Privacy.
-- 👯 I’m looking to collaborate with folks in the field of Explainable AI and Applied AI in Financial Markets
-- 😄 Pronouns: He/Him
-- 💬 Ask me about: F1, Books, Games, Music and Tech. Development - Javascript/Python/ReactJS/Django
-- ✨ Special interests in NLP and a keen interest in designing UIs
-- 📚 I'm an avid reader, I write blogs and I'm fond of origami.
-- 📫 How to reach me: [@avsalunkhe98](https://twitter.com/avsalunkhe98)
-<!-- - 👯 I’m looking to collaborate with other researchers in the field of Explainable AI and Financial Markets -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ashishsalunkhe.in) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsalunkhe/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avsalunkhe98)
 
-**Languages and Tools:**  
+## 🛠 Skills
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/salesforce/salesforce.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-## My Github Statistics 📊
+👩‍💻 I work at Barclays as Analyst-III
 
-<img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&hide_border=true"/>
+🧠 I'm currently exploring X-AI in financial markets and differential privacy
 
+💬 Ask me about Formula 1, Cricket, TV Shows, Tech
 
-![Profile views](https://gpvc.arturio.dev/ashishsalunkhe)  <img src="https://img.shields.io/github/followers/ashishsalunkhe?label=Follow" style=" float:left, margin-right:10px" />
+📫 How to reach me?
 
+- You can connect with me on my Twitter or my email
+  @avsalunkhe98
+  avsalunkhe98@gmail.com
 
+## 🚀 About Me
+
+I am a passionate software developer, specialised in Salesforce, Java and front-end development using ReactJS. Among my personal interests, I'm fascinated by gardening, astronomy, origami and design.
+
+<br>
+
+<hr>
+
+## My Github Statistics
+
+![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&theme=synthwave&show_icons=true)
+<br>
