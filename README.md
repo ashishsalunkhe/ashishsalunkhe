@@ -2,9 +2,9 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?&logo=ko-fi&logoColor=white)](https://www.ashishsalunkhe.in) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?e&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsalunkhe/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/avsalunkhe98)
+[![portfolio](https://img.shields.io/badge/my_portfolio?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ashishsalunkhe.in) 
+[![linkedin](https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsalunkhe/)
+[![twitter](https://img.shields.io/badge/twitter?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avsalunkhe98)
 
 ## 🛠 Skills
 
