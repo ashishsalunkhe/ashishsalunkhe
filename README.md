@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **ashish.salunkhe@ieee.org**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/ux6tj85po1dyp4w/AshishSalunkhe_Resume.pdf?dl=0](https://www.dropbox.com/s/ux6tj85po1dyp4w/AshishSalunkhe_Resume.pdf?dl=0)
+- 📄 Know about my experiences [Resume](https://www.dropbox.com/s/ux6tj85po1dyp4w/AshishSalunkhe_Resume.pdf?dl=0)
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avsalunkhe98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avsalunkhe98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashishsalunkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishsalunkhe" height="30" width="40" /></a>
-<a href="https://instagram.com/_ashish.salunkhe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashish.salunkhe_" height="30" width="40" /></a>
+<a href="https://twitter.com/avsalunkhe98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avsalunkhe98" height="30" width="40" style="background-color: white"/></a>
+<a href="https://linkedin.com/in/ashishsalunkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishsalunkhe" height="30" width="40" style="background-color: white"/></a>
+<a href="https://instagram.com/_ashish.salunkhe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashish.salunkhe_" height="30" width="40" style="background-color: white" /></a>
 </p>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
