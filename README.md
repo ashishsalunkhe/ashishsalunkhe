@@ -2,7 +2,7 @@
 <h3 align="left">I am a passionate software developer, specialised in Salesforce, Java and front-end development using ReactJS. Among my personal interests, I'm fascinated by gardening, astronomy, origami and design.</h3>
 <hr/>
 
-- 🔭 I’m currently exploring **X-AI for financial markets and different privacy**
+- 🔭 I’m currently exploring **X-AI for policy, financial markets and differential privacy**
 
 - 🌱 I’m currently learning **Spring Boot for Rest Integrations**
 
