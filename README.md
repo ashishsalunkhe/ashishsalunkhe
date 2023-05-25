@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently exploring **X-AI for policy, financial markets and differential privacy**
 
-- 🌱 I’m currently learning **Spring Boot for Rest Integrations**
-
+<!-- - 🌱 I’m currently learning **Spring Boot for Rest Integrations**
+ -->
 - 👨‍💻 All of my projects are available at [ashishsalunkhe.in](ashishsalunkhe.in) and here on [GitHub](https://github.com/ashishsalunkhe)
 
 - 📝 I regularly write articles on [https://www.ashishsalunkhe.in/blog](https://www.ashishsalunkhe.in/blog)
 
 - 💬 Ask me about **Formula 1, Cricket, TV Shows, Gardening**
 
-- 📫 How to reach me **ashish.salunkhe@ieee.org**
+- 📫 How to reach me **ashishvs@umd.edu**
 
 - 📄 Know about my experiences [Resume](https://www.dropbox.com/s/ux6tj85po1dyp4w/AshishSalunkhe_Resume.pdf?dl=0)
 <hr/>
@@ -29,4 +29,4 @@
 <hr/>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&show_icons=true&locale=en" alt="ashishsalunkhe" /></p>
+<p>[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsalunkhe)](https://github.com/anuraghazra/github-readme-stats)</p>
