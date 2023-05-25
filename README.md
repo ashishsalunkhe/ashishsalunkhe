@@ -6,7 +6,7 @@
 
 <!-- - 🌱 I’m currently learning **Spring Boot for Rest Integrations**
  -->
-- 👨‍💻 All of my projects are available at [ashishsalunkhe.in](ashishsalunkhe.in) and here on [GitHub](https://github.com/ashishsalunkhe)
+- 👨‍💻 All of my projects are available at [ashishsalunkhe.in](https://www.ashishsalunkhe.in/) and here on [GitHub](https://github.com/ashishsalunkhe)
 
 - 📝 I regularly write articles on [https://www.ashishsalunkhe.in/blog](https://www.ashishsalunkhe.in/blog)
 
