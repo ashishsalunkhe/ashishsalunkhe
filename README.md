@@ -22,3 +22,9 @@ I'm actively seeking opportunities to contribute to open-source projects and col
 ## Get in Touch
 
 Feel free to reach out to me via [Email](ashishvs@umd.edu) or connect with me on [LinkedIn](linkedin.com/in/ashishsalunkhe).  Let's chat about data science, software engineering, or any tech-related challenge!
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ashishsalunkhe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashishsalunkhe&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsalunkhe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
