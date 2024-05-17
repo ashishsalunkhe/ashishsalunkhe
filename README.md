@@ -21,4 +21,4 @@ I'm actively seeking opportunities to contribute to open-source projects and col
 
 ## Get in Touch
 
-Feel free to reach out to me via Email (ashishvs@umd.edu) or connect with me on LinkedIn (linkedin.com/in/ashishsalunkhe).  Let's chat about data science, software engineering, or any tech-related challenge!
+Feel free to reach out to me via [Email](ashishvs@umd.edu) or connect with me on [LinkedIn](linkedin.com/in/ashishsalunkhe).  Let's chat about data science, software engineering, or any tech-related challenge!
