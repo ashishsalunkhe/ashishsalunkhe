@@ -1,8 +1,8 @@
-## Ashish Vishvasrao Salunkhe
+## Ashish Salunkhe
 
 Hi there! 👋
 
-I'm Ashish Vishvasrao Salunkhe, a data science aficionado with a keen eye for building impactful data products using cutting-edge tools.
+I'm Ashish Salunkhe, a software engineer building impactful data products.
 
 ## About Me
 
